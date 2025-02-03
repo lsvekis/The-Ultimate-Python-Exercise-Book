@@ -1,0 +1,17 @@
+Below is a comprehensive collection of 100 coding exercises and 25 multiple‑choice quiz questions focused on Python basics—specifically, Python syntax, variables, type conversion, and basic input/output. These exercises are designed to help you learn how to write and execute Python code, understand syntax and indentation rules, work with common data types (integers, floats, strings, booleans), perform type conversions, and use the basic functions input() and print().
+
+What You Will Learn
+By working through these exercises you will learn to:
+Write and execute Python code by creating scripts and running them.
+Understand Python syntax and indentation rules that determine how your code is structured.
+Work with variables and common data types (integers, floats, strings, booleans).
+Perform type conversion (casting) between different data types.
+Use basic input and output functions to interact with users.
+
+Learning Objectives
+After completing these exercises, you should be able to:
+Create and run simple Python programs.
+Apply proper indentation and formatting to avoid syntax errors.
+Declare, assign, and manipulate variables of different types.
+Convert between types using functions such as int(), float(), and str().
+Use input() to receive user data and print() to display results.
