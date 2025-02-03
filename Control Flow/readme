@@ -1,0 +1,22 @@
+Below is a comprehensive set of 100 coding exercises and 25 multiple‑choice quiz questions focused on Control Flow – Conditionals and Loops in Python. These exercises cover:
+Conditional statements (if, elif, else)
+Logical operators (and, or, not)
+Loops (both for and while)
+The break and continue statements
+Practical examples that combine loops and conditionals
+Each exercise includes the complete code (or instructions to simulate user input) along with detailed explanations. In addition, you’ll find 25 multiple‑choice questions with answer explanations to test your understanding.
+
+What You Will Learn
+How to use conditional statements to control the flow of your program.
+How to combine conditions using logical operators.
+How to iterate over data using for loops and while loops.
+How to alter loop behavior with break and continue.
+How to build practical applications using loops and conditionals.
+
+Learning Objectives
+After completing these exercises, you should be able to:
+Write and structure Python code that makes decisions using if, elif, and else.
+Combine multiple conditions with and, or, and not to form complex logic.
+Use loops (for and while) to iterate over data and perform repetitive tasks.
+Employ break and continue to manage loop execution.
+Solve practical problems (e.g., number guessing, FizzBuzz, prime number checks) using control flow.
