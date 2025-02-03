@@ -1,0 +1,22 @@
+Below is a comprehensive set of 100 coding exercises and 25 multiple‑choice quiz questions focused on Functions and Modular Programming in Python. This section covers:
+Defining and calling functions
+Function parameters and return values
+Default parameters and keyword arguments
+Scope and lifetime of variables
+Importing and using modules (such as math, random, and your own custom modules)
+
+What You Will Learn
+By working through these exercises you will learn to:
+Define and call functions: Create reusable blocks of code and invoke them from other parts of your program.
+Use function parameters and return values: Pass data into functions and return computed results.
+Apply default parameters and keyword arguments: Write functions with default values and call them using keywords.
+Understand variable scope and lifetime: Distinguish between local and global variables and how their lifetimes are managed.
+Import and use modules: Leverage standard modules (like math and random) and create/use custom modules to modularize your code.
+
+Learning Objectives
+After completing these exercises, you should be able to:
+Write and invoke functions with various types of parameters.
+Design functions that return values and even multiple values.
+Use default arguments and keyword arguments to make your functions flexible.
+Understand and control the scope of variables (local, global, nonlocal).
+Import standard libraries and custom modules to extend your program’s functionality.
