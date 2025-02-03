@@ -1,0 +1,21 @@
+Below is a comprehensive collection of 100 coding exercises and 25 multiple‑choice quiz questions focused on Working with Data – Lists, Tuples, and Dictionaries in Python. This section covers:
+Lists: How to create them, index and slice, and perform various manipulations
+Tuples: Immutable sequences and when to use them
+Dictionaries: Key–value pairs, adding and removing items, and common operations
+Iteration: How to loop through lists, tuples, and dictionaries
+
+What You Will Learn
+By working through these exercises you will learn to:
+Create and manipulate lists, including indexing, slicing, appending, inserting, and removing items.
+Understand tuples as immutable sequences and use them appropriately.
+Work with dictionaries to store, retrieve, update, and delete key–value pairs.
+Use built‑in methods and functions for each data structure.
+Iterate through these data structures using loops.
+
+Learning Objectives
+After completing these exercises, you should be able to:
+Create, access, and modify lists.
+Understand the immutable nature of tuples and how to use them.
+Create and update dictionaries, and perform common dictionary operations.
+Loop through lists, tuples, and dictionaries using for loops.
+Solve practical problems using these common data structures.
