@@ -1,0 +1,18 @@
+Below is a comprehensive collection of 100 coding exercises and 25 multiple‑choice quiz questions covering the topics in Strings and File Handling. In these exercises you will work with:
+Strings: Basic operations, indexing, slicing, methods, and formatting
+File Handling: Reading from and writing to text files, and working with CSV files using Python’s built‑in functions and the csv module
+
+What You Will Learn
+String Basics: How to create, index, slice, and manipulate strings.
+String Methods: Use methods such as upper(), lower(), split(), join(), and more to process text.
+String Formatting: Format strings using f‑strings, the .format() method, and the % operator.
+File Handling: Open, read, and write text files, manage file encodings, and work with files safely using the with statement.
+Working with CSV Files: Read from and write to CSV files using Python’s csv module, including working with dictionaries and custom delimiters.
+
+Learning Objectives
+After completing these exercises, you should be able to:
+Create and manipulate strings, using indexing, slicing, and built‑in methods.
+Format strings in several ways to produce well‑formatted output.
+Read from and write to files safely and efficiently.
+Process CSV files by reading rows, writing rows, and converting between data structures.
+Combine string operations with file handling to solve practical data‐processing problems.
