@@ -1,0 +1,23 @@
+Below is a comprehensive collection of 100 coding exercises and 25 multiple‑choice quiz questions focused about an Introduction to Object‑Oriented Programming (OOP) in Python. These exercises cover:
+Understanding Classes and Objects
+Defining a Class and Creating Objects
+Instance Attributes and Methods
+Class Attributes and Methods
+Inheritance and Polymorphism Basics
+Each exercise includes complete Python code and an explanation of what the code does. At the end, you’ll find 25 multiple‑choice questions with full answer explanations.
+
+What You Will Learn
+Classes and Objects: Understand the core concept of OOP by defining classes and creating instances (objects).
+Instance Attributes and Methods: Learn how to store data in objects and define behavior unique to each instance.
+Class Attributes and Methods: Discover how to share data and behavior across all instances of a class.
+Inheritance and Polymorphism: Get introduced to code reuse and overriding methods for more flexible designs.
+
+Learning Objectives
+After completing these exercises, you will be able to:
+Define your own classes in Python.
+Create and manipulate objects (instances of classes).
+Use instance attributes to store individual object data.
+Define and call instance methods to perform object‑specific operations.
+Create class attributes and class methods to share data across objects.
+Implement inheritance to extend and modify existing classes.
+Understand the basics of polymorphism, where different classes share the same method names with different implementations.
