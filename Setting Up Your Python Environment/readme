@@ -1,1 +1,20 @@
+Setting Up Your Python Environment
+Introduction
+In this section you will learn to:
+Install Python on Windows, macOS, and Linux.
+Verify your Python installation by checking version information, module locations, and environment details.
+Use the Python interactive shell for quick testing, arithmetic, variable inspection, and debugging.
+Set up and use various code editors such as IDLE, VS Code, PyCharm, and Jupyter Notebook.
+Run Python scripts from the command line and learn to work with command-line arguments.
+Understand the structure of a Python script (e.g., using the if __name__ == "__main__": idiom) and best practices like virtual environments, logging, and code formatting.
+
+Learning Objectives
+By working through these exercises and quiz questions, you will be able to:
+Install and verify Python on different platforms.
+Use Python’s built-in modules (such as sys, os, platform, and argparse) to inspect your environment.
+Practice coding in the interactive shell and see immediate feedback.
+Write scripts using modern Python features (f‑strings, list comprehensions, exception handling, etc.).
+Configure and use IDLE, VS Code, PyCharm, and Jupyter Notebook to write, run, and debug your Python code.
+Parse command‑line arguments and work with files and JSON data.
+Understand how to integrate best practices (debugging, virtual environments, linters) into your workflow.
 
